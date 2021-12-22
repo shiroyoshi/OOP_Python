@@ -14,7 +14,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan `class`. Buatlah `class
 * Method `hapus(nama)` untuk menghapus data berdasarkan nama                
 * Method `ubah(nama)` untuk mengubah data berdasarkan nama               
   
-![Gambar 1](Ss/Flowchart.png)          
+![Gambar 1](Ss/Flowchart.PNG)          
 
 Pertama kita mendeklarasikan sebuah `class` Mahasiswa yang didalamnya terdapat `atribut` NIM, Nama, nilai tugas, nilai UTS dan nilai UAS.           
 
